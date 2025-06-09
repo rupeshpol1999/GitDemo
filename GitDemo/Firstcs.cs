@@ -13,6 +13,7 @@ namespace GitDemo
             static void Main()
             {
                 Console.WriteLine("My first Git Reposetry");
+                Console.WriteLine("Succesfully Integrated");
             }
         }
     }
